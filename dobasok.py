@@ -1,5 +1,4 @@
 import random as rn
-dobott_szamok = []
 def kozte(szam1, szam2, szam3):
     if szam1 in range(szam2, szam3):
         return True
